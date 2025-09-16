@@ -1,0 +1,75 @@
+body{
+    background-color: black;
+
+
+
+
+}
+header{
+    color:rgb(204, 132, 81);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size:x-large
+    
+
+    
+}
+img{
+    width: 240px;
+
+
+
+
+
+}
+nav{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: sandybrown;
+
+
+
+
+
+}
+hr{
+    color:chocolate;
+
+
+}
+main{
+    img{
+        width: 1000px;
+    }
+    color: darkkhaki;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+
+
+
+
+}
+ul{
+    color: coral;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size:medium;
+    
+    
+
+
+
+
+
+}
+p{
+    font-style: italic;
+
+
+
+
+
+
+}
+td{
+    color: coral;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size:medium;
+}
